@@ -8,8 +8,11 @@ Proyek ini adalah program sederhana berbasis Python yang mensimulasikan sistem i
 · Anggota Kelompok 5:
 
   · ARKKA ADHYATMAKASUKHA DESTOMO (A710250013)
+
   · FALENIKO MUBINTORO (A710250039)
+  
   · FATTA DWI PERMANA PUTRA (A710250040)
+  
   · DHONNI RIDHO MABRURI (A710250041)
   
 
